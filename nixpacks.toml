@@ -6,5 +6,13 @@ aptPkgs = [
     'libgtk-3-0',
     'libgbm-dev',
     'libasound2',
-    'libnss3'
+    'libnss3',
+    'libx11-xcb1',
+    'libxcomposite1',
+    'libxdamage1',
+    'libxrandr2',
+    'libxfixes3',
+    'libpango-1.0-0',
+    'libcairo2',
+    'libgobject-2.0-0'
 ]
