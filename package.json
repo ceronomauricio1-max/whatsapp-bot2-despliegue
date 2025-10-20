@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-bot-client",
   "version": "1.0.0",
-  "description": "Bot de WhatsApp usando whatsapp-web.js",
+  "description": "Bot for WhatsApp using whatsapp-web.js - v2 to force cache clear",
   "main": "index.js",
   "scripts": {
     "start": "pm2-runtime start index.js --name whatsapp-bot --max-memory-restart 1000M"
